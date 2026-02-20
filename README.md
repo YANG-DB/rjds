@@ -2,6 +2,8 @@
 
 Online admissions portal for Richmond Jewish Day School (2026-2027), featuring an informational landing page and a multi-step enrollment wizard that generates a PDF application.
 
+**Live site: [https://rjds.vercel.app](https://rjds.vercel.app/)**
+
 ## Features
 
 - **Admissions Landing Page** — School information, admissions process, application checklist, important dates, and tuition & fees table sourced from [rjds.ca/admissions](https://rjds.ca/admissions/)
